@@ -1,1 +1,1 @@
-"Hi ho, Io" print
+"Hello world!" println
