@@ -1,5 +1,5 @@
 # NotWorking
-# Instead of this use, brew install io
+# Instead of using this, brew install io
 
 
 import subprocess
